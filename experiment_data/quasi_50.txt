@@ -1,0 +1,12 @@
+   0   Min/Max 5.1410e-01   Residual 1.4171e-01   Equidistribution 9.9960e-01
+   1   Min/Max 6.3458e-01   Residual 7.7921e-02   Equidistribution 9.9966e-01
+   2   Min/Max 6.0083e-01   Residual 6.3954e-02   Equidistribution 9.9966e-01
+   3   Min/Max 6.2272e-01   Residual 5.8432e-02   Equidistribution 9.9968e-01
+   4   Min/Max 6.0470e-01   Residual 5.6022e-02   Equidistribution 9.9967e-01
+   5   Min/Max 6.0415e-01   Residual 5.3179e-02   Equidistribution 9.9968e-01
+   6   Min/Max 6.0387e-01   Residual 5.0230e-02   Equidistribution 9.9968e-01
+   7   Min/Max 6.0547e-01   Residual 4.7545e-02   Equidistribution 9.9968e-01
+   8   Min/Max 6.1094e-01   Residual 4.5063e-02   Equidistribution 9.9969e-01
+   9   Min/Max 6.2736e-01   Residual 4.2726e-02   Equidistribution 9.9970e-01
+  10   Min/Max 6.2800e-01   Residual 4.0548e-02   Equidistribution 9.9970e-01
+  11   Min/Max 6.3831e-01   Residual 3.8706e-02   Equidistribution 9.9970e-01
